@@ -18,6 +18,7 @@
         "symfony/ldap": "7.0.*",
         "symfony/mailer": "7.0.*",
         "symfony/monolog-bundle": "^3.10",
+        "symfony/notifier": "7.0.*",
         "symfony/runtime": "7.0.*",
         "symfony/security-bundle": "7.0.*",
         "symfony/uid": "7.0.*",
